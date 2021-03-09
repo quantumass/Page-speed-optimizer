@@ -1,0 +1,20 @@
+{
+    "PREPROD": {
+        "calendarDayEntityId": "1",
+        "api": "http://168.119.118.90:30843/",
+        "headers": {
+            "Content-Type": "application/json",
+            "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjEwMCwicm9sZUlkIjoxLCJmdW5jdGlvbmFsaXRpZXMiOlsiZ2VzdGlvbl9zdG9jayIsImdlc3Rpb25fY2Fpc3NlIiwiZ2VzdGlvbl9wcm9kdWl0cyIsImdlc3Rpb25fbWFnYXNpbiIsImdlc3Rpb25fY29tbWFuZCIsImdlc3Rpb25fbGFiIiwiZ2VzdGlvbl9iaWxhbiIsImdlc3Rpb25fdXRpbGlzYXRldXIiLCJnZXN0aW9uX25vdGlmaWNhdGlvbiIsImdlc3Rpb25fYWRtaW5zIiwiZ2VzdGlvbl9sYW5kaW5nX3BhZ2VzIiwiZ2VzdGlvbl9wcm9maXQiLCJnZXN0aW9uX2Vjb21tZXJjZSIsImdlc3Rpb25fbGVhZHMiLCJnZXN0aW9uX2RlbGl2ZXJ5IiwiZ2VzdGlvbl90cmFuc3BvcnRfY29tcGFuaWVzIiwiZ2VzdGlvbl9iaWxsaW5ncyIsImFkZF9leHRlcm5hbF9sZWFkIiwiYmRfY2xpZW50Il0sImlkIjoxLCJlbnRyZXByaXNlSWQiOjEsImVtYWlsIjoiYWRtaW5AdGVzdC5tYSJ9.IHI841GRIIqGvpHI0X37LsB79GhXZ3dWfvrLhyVIdrM",
+            "precisionidentifier": "01A17A2A-8AC2-4A09-A76F-0F13F138A30F"
+        }
+    },
+    "LOCAL": {
+        "calendarDayEntityId": "8506",
+        "api": "http://192.168.1.10/",
+        "headers": {
+            "Content-Type": "application/json",
+            "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjEwMCwiaWQiOjIzMCwiZW50cmVwcmlzZUlkIjo3LCJmdW5jdGlvbmFsaXRpZXMiOlsiYmRfY2xpZW50IiwicmVtaXNlX2NvbW1hbmRlIiwiZ2VzdGlvbl9zdG9jayIsImdlc3Rpb25fY2Fpc3NlIiwiZ2VzdGlvbl9wcm9kdWl0cyIsImdlc3Rpb25fbWFnYXNpbiIsImdlc3Rpb25fbGFiIiwiZ2VzdGlvbl9jb21tYW5kIiwiZ2VzdGlvbl9iaWxhbiIsImdlc3Rpb25fdXRpbGlzYXRldXIiLCJnZXN0aW9uX25vdGlmaWNhdGlvbiIsImN1c3RvbWVyX2Rpc3BsYXlfdmlldyIsImdlc3Rpb25fYWRtaW5zIiwicHJvZHVpdHNfdGllcnMiLCJnZXN0aW9uX3Byb2ZpdCIsInN1cHBsZW1lbnRzIiwiY2FuY2VsZWRfY21kX2NsaWVudF92YWxpZGF0aW9uX2J5X2FkbWluIiwibW9kaWZpZWRfY21kX2NsaWVudF92YWxpZGF0aW9uX2J5X2dlcmFudCIsImNsaWVudF9hZGRpdGlvbmFsX2luZm8iLCJjb21tYW5kX2luc3RydWN0aW9uIiwiY29tbWFuZF9hZGRpdGlvbmFsX2luZm8iLCJyZWZ1bmRfY29tbWFuZCIsImdlc3Rpb25fc3VwcGxpZXJzIiwiZ2VzdGlvbl9icmFuZHMiLCJleHRlcm5hbF93ZWJob29rcyIsImdlc3Rpb25fZGVsaXZlcnkiLCJnZXN0aW9uX3RyYW5zcG9ydF9jb21wYW5pZXMiLCJnZXN0aW9uX2xlYWRzIiwiZ2VzdGlvbl9lY29tbWVyY2UiLCJnZXN0aW9uX2xhbmRpbmdfcGFnZXMiLCJnZXN0aW9uX2JpbGxpbmdzIiwiZXh0ZXJuYWxfaW1wb3J0YXRpb24iXSwicm9sZUlkIjo0MiwiZW1haWwiOiJhZG1pbkBwcmVjaXNpb24ubWEifQ.W9Wa8Fz43mRahEAN1miCd29mJVofaaNyWdjgxLNwsEU",
+            "precisionidentifier": "01A17A2A-8AC2-4A09-A76F-0F13F138A30F"
+        }
+    }
+}

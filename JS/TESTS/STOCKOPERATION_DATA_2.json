@@ -1,0 +1,48 @@
+{
+    "isVersion2": true,
+    "localKey": "48-634661435.228873",
+    "calendarDayEntityId": 20551,
+    "operationTransactions": [
+        {
+            "stock_operation_id": "48-634660009.825599",
+            "transaction_type_id": 5,
+            "id": 0,
+            "created_at": "2021-02-10T15:26:49.887",
+            "updated_at": "2021-02-10T15:26:49.896",
+            "receiver_id": 3,
+            "sender_id": 50
+        }
+    ],
+    "stockOperations": [
+        {
+            "isOldRecaped": false,
+            "id": 0,
+            "calendar_day_entity_id": 20551,
+            "stock_operation_prd": [
+                {
+                    "id": 0,
+                    "produit_id": 143,
+                    "created_at": "2021-02-10T15:26:49.840",
+                    "stock_operation_local_key": "48-634660009.825599",
+                    "local_key": "48-634660009.840314",
+                    "updated_at": "2021-02-10T15:26:49.867",
+                    "quantite": 100
+                },
+                {
+                    "id": 0,
+                    "produit_id": 97,
+                    "created_at": "2021-02-10T15:26:49.875",
+                    "stock_operation_local_key": "48-634660009.825599",
+                    "local_key": "48-634660009.874562",
+                    "updated_at": "2021-02-10T15:26:49.883",
+                    "quantite": 5
+                }
+            ],
+            "created_at": "2021-02-10T15:26:49.826",
+            "local_key": "48-634660009.825599",
+            "user_id": 301,
+            "stock_operation_type_id": 5,
+            "updated_at": "2021-02-10T15:26:49.835"
+        }
+    ]
+}

@@ -1,0 +1,3611 @@
+{
+    "localKey": "36-634237460.465894445",
+    "operationTransactions": [],
+    "stockOperations": [
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T11:45:01.760",
+                    "local_key": "36-634214701.759662",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T11:45:02.129",
+                    "local_key": "36-634214702.128822",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T11:45:02.475",
+                    "produit_id": 147,
+                    "local_key": "36-634214702.47506",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T11:45:02.753",
+                    "produit_id": 143,
+                    "local_key": "36-634214702.752885",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T11:45:03.071",
+                    "produit_id": 152,
+                    "local_key": "36-634214703.071447",
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T11:45:03.411",
+                    "produit_id": 543,
+                    "local_key": "36-634214703.410523",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T11:45:03.739",
+                    "produit_id": 205,
+                    "local_key": "36-634214703.73886",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T11:45:04.009",
+                    "local_key": "36-634214704.009233",
+                    "produit_id": 178,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1448825,
+            "created_at": "2021-02-05T11:45:01.028",
+            "local_key": "36-634214701.028132"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T11:51:59.346",
+                    "local_key": "36-634215119.345715",
+                    "produit_id": 599,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T11:51:59.553",
+                    "local_key": "36-634215119.553333",
+                    "produit_id": 205,
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T11:51:58.636",
+            "cmd_client_id": 1448828,
+            "local_key": "36-634215118.635815"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:02:22.597",
+                    "produit_id": 4,
+                    "local_key": "36-634215742.596872",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:02:22.934",
+                    "local_key": "36-634215742.934302",
+                    "produit_id": 143,
+                    "quantite": 0.195,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:02:23.256",
+                    "produit_id": 147,
+                    "local_key": "36-634215743.255565",
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T12:02:23.529",
+                    "local_key": "36-634215743.529018",
+                    "produit_id": 148,
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:02:23.793",
+                    "local_key": "36-634215743.79273",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:02:24.127",
+                    "produit_id": 12,
+                    "local_key": "36-634215744.12726",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:02:24.452",
+                    "produit_id": 543,
+                    "local_key": "36-634215744.451825",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:02:24.778",
+                    "local_key": "36-634215744.777767",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T12:02:21.878",
+            "local_key": "36-634215741.877807",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1448861,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:04:51.304",
+                    "local_key": "36-634215891.303824",
+                    "produit_id": 627,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "local_key": "36-634215890.577061",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T12:04:50.577",
+            "cmd_client_id": 1448862,
+            "stock_operation_type_id": 2
+        },
+        {
+            "id": 0,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:06:12.452",
+                    "local_key": "36-634215972.451946",
+                    "produit_id": 684,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:06:12.654",
+                    "produit_id": 169,
+                    "local_key": "36-634215972.654003",
+                    "quantite": 0.06,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:06:12.867",
+                    "local_key": "36-634215972.867236",
+                    "produit_id": 100,
+                    "id": 0,
+                    "quantite": 0.04
+                },
+                {
+                    "created_at": "2021-02-05T12:06:13.079",
+                    "produit_id": 97,
+                    "local_key": "36-634215973.079121",
+                    "quantite": 0.06,
+                    "id": 0
+                }
+            ],
+            "local_key": "36-634215971.67863",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T12:06:11.679",
+            "cmd_client_id": 1448863,
+            "stock_operation_type_id": 2
+        },
+        {
+            "id": 0,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:13:25.252",
+                    "local_key": "36-634216405.25167",
+                    "produit_id": 97,
+                    "id": 0,
+                    "quantite": 0.08
+                },
+                {
+                    "created_at": "2021-02-05T12:13:25.474",
+                    "local_key": "36-634216405.474073",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.65
+                },
+                {
+                    "created_at": "2021-02-05T12:13:25.798",
+                    "produit_id": 543,
+                    "local_key": "36-634216405.798438",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:13:26.149",
+                    "produit_id": 12,
+                    "local_key": "36-634216406.149079",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:13:26.498",
+                    "produit_id": 4,
+                    "local_key": "36-634216406.498128",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:13:26.840",
+                    "produit_id": 205,
+                    "local_key": "36-634216406.840343",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:13:27.127",
+                    "produit_id": 100,
+                    "local_key": "36-634216407.127155",
+                    "quantite": 0.04,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:13:27.322",
+                    "local_key": "36-634216407.322214",
+                    "produit_id": 178,
+                    "id": 0,
+                    "quantite": 0.02
+                },
+                {
+                    "created_at": "2021-02-05T12:13:27.581",
+                    "produit_id": 170,
+                    "local_key": "36-634216407.581394",
+                    "quantite": 0.02,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634216404.429737",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T12:13:24.430",
+            "cmd_client_id": 1448864,
+            "stock_operation_type_id": 2
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:28:01.990",
+                    "local_key": "36-634217281.990501",
+                    "produit_id": 543,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:28:02.342",
+                    "produit_id": 547,
+                    "local_key": "36-634217282.342159",
+                    "id": 0,
+                    "quantite": 0.12
+                },
+                {
+                    "created_at": "2021-02-05T12:28:02.558",
+                    "produit_id": 143,
+                    "local_key": "36-634217282.557574",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:28:02.885",
+                    "local_key": "36-634217282.884523",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:28:03.219",
+                    "produit_id": 4,
+                    "local_key": "36-634217283.219255",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:28:03.546",
+                    "local_key": "36-634217283.545966",
+                    "produit_id": 12,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:28:03.870",
+                    "produit_id": 178,
+                    "local_key": "36-634217283.87029",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T12:28:01.287",
+            "local_key": "36-634217281.286998",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1448911
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:33:07.263",
+                    "local_key": "36-634217587.263452",
+                    "produit_id": 658,
+                    "id": 0,
+                    "quantite": 2
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634217586.549508",
+            "cmd_client_id": 1448931,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T12:33:06.549"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:33:41.976",
+                    "local_key": "36-634217621.975831",
+                    "produit_id": 622,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:33:42.172",
+                    "local_key": "36-634217622.17236",
+                    "produit_id": 205,
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "created_at": "2021-02-05T12:33:41.264",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634217621.263643",
+            "cmd_client_id": 1448949
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:33:56.407",
+                    "produit_id": 603,
+                    "local_key": "36-634217636.407215",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:33:56.604",
+                    "local_key": "36-634217636.603582",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634217635.67668",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T12:33:55.677",
+            "cmd_client_id": 1448950
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:34:24.567",
+                    "produit_id": 599,
+                    "local_key": "36-634217664.566605",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:34:24.764",
+                    "local_key": "36-634217664.764217",
+                    "produit_id": 616,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:34:24.958",
+                    "produit_id": 205,
+                    "local_key": "36-634217664.957638",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:34:25.489",
+                    "produit_id": 100,
+                    "local_key": "36-634217665.488697",
+                    "id": 0,
+                    "quantite": 0.08
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634217663.792579",
+            "cmd_client_id": 1448951,
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T12:34:23.793"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:39:11.660",
+                    "local_key": "36-634217951.660306",
+                    "produit_id": 205,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:39:11.956",
+                    "local_key": "36-634217951.955697",
+                    "produit_id": 578,
+                    "quantite": 2,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1448952,
+            "local_key": "36-634217950.942911",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T12:39:10.943",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:40:00.292",
+                    "local_key": "36-634218000.292216",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:40:00.686",
+                    "local_key": "36-634218000.686366",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:40:01.014",
+                    "produit_id": 152,
+                    "local_key": "36-634218001.013579",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:40:01.308",
+                    "local_key": "36-634218001.308387",
+                    "produit_id": 147,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:40:01.582",
+                    "produit_id": 143,
+                    "local_key": "36-634218001.582321",
+                    "quantite": 0.05,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:40:01.901",
+                    "local_key": "36-634218001.900964",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:40:02.226",
+                    "produit_id": 175,
+                    "local_key": "36-634218002.225759",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1448981,
+            "created_at": "2021-02-05T12:39:59.681",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634217999.681419",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:40:36.170",
+                    "local_key": "36-634218036.169903",
+                    "produit_id": 684,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1448982,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T12:40:35.461",
+            "local_key": "36-634218035.460735"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:46:16.727",
+                    "produit_id": 565,
+                    "local_key": "36-634218376.727246",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634218376.013769",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449011,
+            "created_at": "2021-02-05T12:46:16.014"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:52:52.873",
+                    "local_key": "36-634218772.87282",
+                    "produit_id": 648,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T12:52:53.073",
+                    "produit_id": 205,
+                    "local_key": "36-634218773.073286",
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T12:52:52.128",
+            "local_key": "36-634218772.127569",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449012,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T12:56:19.106",
+                    "produit_id": 603,
+                    "local_key": "36-634218979.10589",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T12:56:19.306",
+                    "produit_id": 205,
+                    "local_key": "36-634218979.305772",
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T12:56:18.400",
+            "cmd_client_id": 1449056,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634218978.400283"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:14:28.498",
+                    "local_key": "36-634220068.497787",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:28.860",
+                    "local_key": "36-634220068.860309",
+                    "produit_id": 148,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:29.122",
+                    "produit_id": 143,
+                    "local_key": "36-634220069.12172",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:29.438",
+                    "local_key": "36-634220069.437877",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:14:29.763",
+                    "produit_id": 12,
+                    "local_key": "36-634220069.762953",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:30.088",
+                    "produit_id": 543,
+                    "local_key": "36-634220070.087843",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:30.413",
+                    "local_key": "36-634220070.41278",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:14:30.686",
+                    "produit_id": 484,
+                    "local_key": "36-634220070.68577",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220066.854034",
+            "cmd_client_id": 1449155,
+            "created_at": "2021-02-05T13:14:26.854",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:15:27.302",
+                    "local_key": "36-634220127.30239",
+                    "produit_id": 543,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:15:27.633",
+                    "produit_id": 547,
+                    "local_key": "36-634220127.633239",
+                    "quantite": 0.24,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:15:27.840",
+                    "produit_id": 152,
+                    "local_key": "36-634220127.839723",
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T13:15:28.180",
+                    "local_key": "36-634220128.180152",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:15:28.506",
+                    "local_key": "36-634220128.506357",
+                    "produit_id": 12,
+                    "quantite": 4,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:15:30.058",
+                    "local_key": "36-634220130.058412",
+                    "produit_id": 175,
+                    "id": 0,
+                    "quantite": 0.08
+                }
+            ],
+            "cmd_client_id": 1449156,
+            "created_at": "2021-02-05T13:15:26.615",
+            "local_key": "36-634220126.614955",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:15:56.273",
+                    "local_key": "36-634220156.272853",
+                    "produit_id": 698,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:15:56.472",
+                    "local_key": "36-634220156.472177",
+                    "produit_id": 662,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:15:56.666",
+                    "local_key": "36-634220156.665842",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:15:56.993",
+                    "produit_id": 4,
+                    "local_key": "36-634220156.993466",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:15:57.330",
+                    "local_key": "36-634220157.329702",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:15:57.646",
+                    "produit_id": 148,
+                    "local_key": "36-634220157.646298",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:15:57.906",
+                    "local_key": "36-634220157.905678",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:15:58.243",
+                    "produit_id": 543,
+                    "local_key": "36-634220158.24318",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:15:58.572",
+                    "produit_id": 205,
+                    "local_key": "36-634220158.57244",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449157,
+            "local_key": "36-634220155.488588",
+            "created_at": "2021-02-05T13:15:55.489",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:16:43.719",
+                    "produit_id": 4,
+                    "local_key": "36-634220203.719283",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:16:44.055",
+                    "local_key": "36-634220204.055317",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:16:44.380",
+                    "local_key": "36-634220204.38028",
+                    "produit_id": 152,
+                    "quantite": 0.024,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:16:44.720",
+                    "local_key": "36-634220204.719715",
+                    "produit_id": 147,
+                    "id": 0,
+                    "quantite": 0.26
+                },
+                {
+                    "created_at": "2021-02-05T13:16:44.984",
+                    "produit_id": 543,
+                    "local_key": "36-634220204.984085",
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:16:46.627",
+                    "local_key": "36-634220206.627491",
+                    "produit_id": 175,
+                    "id": 0,
+                    "quantite": 0.08
+                }
+            ],
+            "created_at": "2021-02-05T13:16:42.952",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220202.951554",
+            "cmd_client_id": 1449158
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:17:59.780",
+                    "produit_id": 4,
+                    "local_key": "36-634220279.779826",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:18:00.144",
+                    "local_key": "36-634220280.143759",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:18:00.428",
+                    "local_key": "36-634220280.428351",
+                    "produit_id": 147,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:18:00.703",
+                    "local_key": "36-634220280.702594",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:18:00.964",
+                    "local_key": "36-634220280.964382",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:18:01.297",
+                    "local_key": "36-634220281.2974",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:18:01.625",
+                    "produit_id": 543,
+                    "local_key": "36-634220281.624603",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:18:01.951",
+                    "produit_id": 178,
+                    "local_key": "36-634220281.951034",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "cmd_client_id": 1449159,
+            "created_at": "2021-02-05T13:17:59.006",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220279.006136",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:18:21.722",
+                    "local_key": "36-634220301.721715",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449160,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220300.946208",
+            "created_at": "2021-02-05T13:18:20.946"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:19:01.884",
+                    "produit_id": 475,
+                    "local_key": "36-634220341.883593",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "cmd_client_id": 1449161,
+            "local_key": "36-634220341.183489",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T13:19:01.183",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:20:04.794",
+                    "local_key": "36-634220404.794091",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:20:05.143",
+                    "produit_id": 4,
+                    "local_key": "36-634220405.142711",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:20:05.503",
+                    "produit_id": 152,
+                    "local_key": "36-634220405.503385",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:20:05.891",
+                    "local_key": "36-634220405.890638",
+                    "produit_id": 143,
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:20:06.207",
+                    "local_key": "36-634220406.206993",
+                    "produit_id": 547,
+                    "id": 0,
+                    "quantite": 0.12
+                },
+                {
+                    "created_at": "2021-02-05T13:20:06.416",
+                    "local_key": "36-634220406.416353",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:20:06.742",
+                    "produit_id": 205,
+                    "local_key": "36-634220406.742227",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:20:07.018",
+                    "local_key": "36-634220407.018244",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T13:20:04.185",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220404.18468",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449210
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:20:44.713",
+                    "produit_id": 205,
+                    "local_key": "36-634220444.71309",
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:20:44.017",
+            "cmd_client_id": 1449211,
+            "local_key": "36-634220444.016592"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:22:00.853",
+                    "local_key": "36-634220520.852787",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:22:01.195",
+                    "produit_id": 12,
+                    "local_key": "36-634220521.195352",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:22:01.529",
+                    "local_key": "36-634220521.528631",
+                    "produit_id": 105,
+                    "quantite": 0.25,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:22:01.721",
+                    "local_key": "36-634220521.720892",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T13:22:02.003",
+                    "local_key": "36-634220522.002639",
+                    "produit_id": 152,
+                    "quantite": 0.024,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:22:02.338",
+                    "local_key": "36-634220522.338412",
+                    "produit_id": 543,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:22:02.668",
+                    "produit_id": 205,
+                    "local_key": "36-634220522.667715",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:22:02.943",
+                    "produit_id": 175,
+                    "local_key": "36-634220522.942754",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634220519.845954",
+            "cmd_client_id": 1449213,
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T13:21:59.846"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:24:53.557",
+                    "local_key": "36-634220693.557034",
+                    "produit_id": 598,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:24:53.798",
+                    "local_key": "36-634220693.797669",
+                    "produit_id": 97,
+                    "id": 0,
+                    "quantite": 0.12
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449215,
+            "local_key": "36-634220692.797258",
+            "created_at": "2021-02-05T13:24:52.797"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:31:35.176",
+                    "local_key": "36-634221095.17567",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449285,
+            "local_key": "36-634221094.488755",
+            "created_at": "2021-02-05T13:31:34.489"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:32:27.153",
+                    "produit_id": 205,
+                    "local_key": "36-634221147.15278",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:32:27.429",
+                    "produit_id": 504,
+                    "local_key": "36-634221147.428886",
+                    "id": 0,
+                    "quantite": 0.02
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:32:26.463",
+            "local_key": "36-634221146.463112",
+            "cmd_client_id": 1449286,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:33:11.753",
+                    "produit_id": 475,
+                    "local_key": "36-634221191.753409",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:33:11.953",
+                    "produit_id": 504,
+                    "local_key": "36-634221191.953469",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634221191.028937",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449287,
+            "created_at": "2021-02-05T13:33:11.029"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:34:16.693",
+                    "local_key": "36-634221256.693085",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:34:16.976",
+                    "produit_id": 504,
+                    "local_key": "36-634221256.975884",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:34:15.914",
+            "local_key": "36-634221255.913569",
+            "cmd_client_id": 1449288,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:35:39.752",
+                    "produit_id": 205,
+                    "local_key": "36-634221339.752131",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:35:40.040",
+                    "local_key": "36-634221340.039717",
+                    "produit_id": 504,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "cmd_client_id": 1449289,
+            "local_key": "36-634221338.945512",
+            "created_at": "2021-02-05T13:35:38.945",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:36:01.157",
+                    "produit_id": 12,
+                    "local_key": "36-634221361.157016",
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:36:01.540",
+                    "produit_id": 4,
+                    "local_key": "36-634221361.539799",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:01.879",
+                    "produit_id": 143,
+                    "local_key": "36-634221361.878591",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:02.181",
+                    "local_key": "36-634221362.18121",
+                    "produit_id": 148,
+                    "quantite": 0.26,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:02.459",
+                    "local_key": "36-634221362.459009",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T13:36:02.815",
+                    "produit_id": 543,
+                    "local_key": "36-634221362.815491",
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T13:36:04.666",
+                    "local_key": "36-634221364.665588",
+                    "produit_id": 205,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:05.183",
+                    "local_key": "36-634221365.183382",
+                    "produit_id": 647,
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634221360.464561",
+            "cmd_client_id": 1449290,
+            "created_at": "2021-02-05T13:36:00.465",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:36:40.328",
+                    "produit_id": 148,
+                    "local_key": "36-634221400.327893",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:40.594",
+                    "produit_id": 4,
+                    "local_key": "36-634221400.593698",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:36:40.927",
+                    "produit_id": 12,
+                    "local_key": "36-634221400.926804",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:41.263",
+                    "local_key": "36-634221401.263061",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:36:41.592",
+                    "local_key": "36-634221401.592338",
+                    "produit_id": 178,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "cmd_client_id": 1449334,
+            "local_key": "36-634221399.643849",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:36:39.644"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:39:17.029",
+                    "produit_id": 698,
+                    "local_key": "36-634221557.028987",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:39:17.225",
+                    "produit_id": 514,
+                    "local_key": "36-634221557.225305",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:39:17.421",
+                    "local_key": "36-634221557.420535",
+                    "produit_id": 175,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449335,
+            "local_key": "36-634221556.338202",
+            "created_at": "2021-02-05T13:39:16.338",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:40:01.000",
+                    "produit_id": 4,
+                    "local_key": "36-634221601.000379",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:40:01.338",
+                    "local_key": "36-634221601.337961",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:40:01.621",
+                    "produit_id": 147,
+                    "local_key": "36-634221601.621362",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:01.898",
+                    "produit_id": 148,
+                    "local_key": "36-634221601.897639",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:02.160",
+                    "local_key": "36-634221602.159977",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T13:40:02.495",
+                    "local_key": "36-634221602.494762",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:02.820",
+                    "local_key": "36-634221602.820359",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:03.145",
+                    "produit_id": 175,
+                    "local_key": "36-634221603.145495",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T13:40:00.223",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449336,
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634221600.223011"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:40:47.624",
+                    "local_key": "36-634221647.6245",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.06
+                },
+                {
+                    "created_at": "2021-02-05T13:40:47.923",
+                    "produit_id": 148,
+                    "local_key": "36-634221647.922904",
+                    "quantite": 0.65,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:48.186",
+                    "local_key": "36-634221648.186044",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.325
+                },
+                {
+                    "created_at": "2021-02-05T13:40:48.621",
+                    "local_key": "36-634221648.620763",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 5
+                },
+                {
+                    "created_at": "2021-02-05T13:40:49.040",
+                    "produit_id": 12,
+                    "local_key": "36-634221649.040069",
+                    "id": 0,
+                    "quantite": 5
+                },
+                {
+                    "created_at": "2021-02-05T13:40:49.516",
+                    "local_key": "36-634221649.515555",
+                    "produit_id": 543,
+                    "quantite": 5,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:56.697",
+                    "local_key": "36-634221656.696761",
+                    "produit_id": 175,
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:40:56.975",
+                    "produit_id": 178,
+                    "local_key": "36-634221656.974726",
+                    "quantite": 0.08,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1449337,
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:40:46.867",
+            "local_key": "36-634221646.867341"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:41:18.177",
+                    "local_key": "36-634221678.176585",
+                    "produit_id": 543,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:41:18.529",
+                    "produit_id": 547,
+                    "local_key": "36-634221678.529284",
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:41:18.738",
+                    "local_key": "36-634221678.738303",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.7150000000000003
+                },
+                {
+                    "created_at": "2021-02-05T13:41:19.043",
+                    "produit_id": 152,
+                    "local_key": "36-634221679.043491",
+                    "quantite": 0.024,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:41:19.352",
+                    "local_key": "36-634221679.352083",
+                    "produit_id": 4,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:41:19.700",
+                    "produit_id": 12,
+                    "local_key": "36-634221679.700391",
+                    "id": 0,
+                    "quantite": 4
+                },
+                {
+                    "created_at": "2021-02-05T13:41:20.302",
+                    "produit_id": 97,
+                    "local_key": "36-634221680.301675",
+                    "id": 0,
+                    "quantite": 0.08
+                },
+                {
+                    "created_at": "2021-02-05T13:41:21.501",
+                    "local_key": "36-634221681.50084",
+                    "produit_id": 175,
+                    "quantite": 0.08,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T13:41:17.395",
+            "cmd_client_id": 1449338,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634221677.395159",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:42:26.228",
+                    "produit_id": 583,
+                    "local_key": "36-634221746.2283",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T13:42:26.505",
+                    "produit_id": 543,
+                    "local_key": "36-634221746.504522",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:42:26.838",
+                    "produit_id": 143,
+                    "local_key": "36-634221746.837755",
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:42:27.125",
+                    "local_key": "36-634221747.124996",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T13:42:27.420",
+                    "local_key": "36-634221747.42025",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:42:27.750",
+                    "produit_id": 12,
+                    "local_key": "36-634221747.749971",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:42:28.078",
+                    "local_key": "36-634221748.078486",
+                    "produit_id": 177,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634221745.695239",
+            "created_at": "2021-02-05T13:42:25.695",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449373
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:43:41.494",
+                    "local_key": "36-634221821.4943",
+                    "produit_id": 648,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:43:41.733",
+                    "local_key": "36-634221821.733032",
+                    "produit_id": 650,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:43:41.948",
+                    "local_key": "36-634221821.947769",
+                    "produit_id": 653,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:43:42.143",
+                    "local_key": "36-634221822.143166",
+                    "produit_id": 205,
+                    "quantite": 3,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:43:42.919",
+                    "produit_id": 578,
+                    "local_key": "36-634221822.919112",
+                    "quantite": 2,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T13:43:40.972",
+            "cmd_client_id": 1449374,
+            "local_key": "36-634221820.971891",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:47:58.180",
+                    "local_key": "36-634222078.180358",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.805
+                },
+                {
+                    "created_at": "2021-02-05T13:47:58.448",
+                    "local_key": "36-634222078.448299",
+                    "produit_id": 143,
+                    "quantite": 0.325,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:47:58.746",
+                    "produit_id": 4,
+                    "local_key": "36-634222078.745669",
+                    "quantite": 5,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:47:59.107",
+                    "local_key": "36-634222079.106614",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 6
+                },
+                {
+                    "created_at": "2021-02-05T13:47:59.455",
+                    "produit_id": 543,
+                    "local_key": "36-634222079.455157",
+                    "quantite": 5,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:47:59.797",
+                    "local_key": "36-634222079.797244",
+                    "produit_id": 152,
+                    "quantite": 0.09599999999999997,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:48:01.575",
+                    "local_key": "36-634222081.574898",
+                    "produit_id": 105,
+                    "id": 0,
+                    "quantite": 0.125
+                },
+                {
+                    "created_at": "2021-02-05T13:48:02.502",
+                    "local_key": "36-634222082.502343",
+                    "produit_id": 510,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:48:03.431",
+                    "local_key": "36-634222083.431338",
+                    "produit_id": 147,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:48:04.682",
+                    "produit_id": 99,
+                    "local_key": "36-634222084.682056",
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:48:06.353",
+                    "local_key": "36-634222086.352636",
+                    "produit_id": 151,
+                    "id": 0,
+                    "quantite": 3
+                },
+                {
+                    "created_at": "2021-02-05T13:48:06.801",
+                    "produit_id": 493,
+                    "local_key": "36-634222086.801017",
+                    "quantite": 0.03,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:48:07.003",
+                    "produit_id": 494,
+                    "local_key": "36-634222087.003055",
+                    "id": 0,
+                    "quantite": 0.03
+                },
+                {
+                    "created_at": "2021-02-05T13:48:09.666",
+                    "local_key": "36-634222089.665775",
+                    "produit_id": 205,
+                    "id": 0,
+                    "quantite": 3
+                },
+                {
+                    "created_at": "2021-02-05T13:48:10.430",
+                    "local_key": "36-634222090.430334",
+                    "produit_id": 175,
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:48:10.707",
+                    "local_key": "36-634222090.706725",
+                    "produit_id": 184,
+                    "id": 0,
+                    "quantite": 0.04
+                },
+                {
+                    "created_at": "2021-02-05T13:48:10.910",
+                    "produit_id": 70,
+                    "local_key": "36-634222090.909858",
+                    "id": 0,
+                    "quantite": 0.04
+                },
+                {
+                    "created_at": "2021-02-05T13:48:11.592",
+                    "local_key": "36-634222091.592023",
+                    "produit_id": 102,
+                    "quantite": 0.1,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449375,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634222077.505756",
+            "created_at": "2021-02-05T13:47:57.506"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:50:11.069",
+                    "produit_id": 4,
+                    "local_key": "36-634222211.069279",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:50:11.414",
+                    "produit_id": 12,
+                    "local_key": "36-634222211.414066",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:50:11.745",
+                    "local_key": "36-634222211.744971",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T13:50:12.045",
+                    "local_key": "36-634222212.044904",
+                    "produit_id": 147,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:50:12.311",
+                    "local_key": "36-634222212.311439",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.05
+                },
+                {
+                    "created_at": "2021-02-05T13:50:12.593",
+                    "produit_id": 543,
+                    "local_key": "36-634222212.593023",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:50:12.919",
+                    "produit_id": 175,
+                    "local_key": "36-634222212.91866",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449410,
+            "created_at": "2021-02-05T13:50:10.360",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634222210.360204"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:52:09.844",
+                    "local_key": "36-634222329.843835",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T13:52:10.161",
+                    "local_key": "36-634222330.160764",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T13:52:10.429",
+                    "produit_id": 143,
+                    "local_key": "36-634222330.429113",
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:52:10.718",
+                    "local_key": "36-634222330.7176",
+                    "produit_id": 4,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:52:11.047",
+                    "produit_id": 12,
+                    "local_key": "36-634222331.046566",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:52:11.374",
+                    "produit_id": 543,
+                    "local_key": "36-634222331.373756",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:52:11.703",
+                    "local_key": "36-634222331.703223",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1449411,
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634222328.877886",
+            "created_at": "2021-02-05T13:52:08.878",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:54:21.541",
+                    "produit_id": 152,
+                    "local_key": "36-634222461.540631",
+                    "quantite": 0.024,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:54:21.843",
+                    "local_key": "36-634222461.843274",
+                    "produit_id": 151,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:54:22.053",
+                    "local_key": "36-634222462.052839",
+                    "produit_id": 148,
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:54:22.338",
+                    "local_key": "36-634222462.337889",
+                    "produit_id": 493,
+                    "quantite": 0.01,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:54:22.556",
+                    "produit_id": 494,
+                    "local_key": "36-634222462.556479",
+                    "quantite": 0.01,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:54:22.767",
+                    "local_key": "36-634222462.767147",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:54:23.051",
+                    "produit_id": 178,
+                    "local_key": "36-634222463.050834",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "created_at": "2021-02-05T13:54:20.754",
+            "local_key": "36-634222460.754194",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449412,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:57:25.519",
+                    "produit_id": 152,
+                    "local_key": "36-634222645.518964",
+                    "quantite": 0.024,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:57:25.825",
+                    "local_key": "36-634222645.825",
+                    "produit_id": 151,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:57:26.028",
+                    "produit_id": 148,
+                    "local_key": "36-634222646.028287",
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:57:26.290",
+                    "produit_id": 493,
+                    "local_key": "36-634222646.290181",
+                    "id": 0,
+                    "quantite": 0.01
+                },
+                {
+                    "created_at": "2021-02-05T13:57:26.499",
+                    "produit_id": 494,
+                    "local_key": "36-634222646.499454",
+                    "quantite": 0.01,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:57:26.701",
+                    "produit_id": 205,
+                    "local_key": "36-634222646.701059",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "cmd_client_id": 1449452,
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634222644.811772",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T13:57:24.812"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T13:59:40.823",
+                    "produit_id": 152,
+                    "local_key": "36-634222780.823339",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:59:41.128",
+                    "produit_id": 105,
+                    "local_key": "36-634222781.127769",
+                    "id": 0,
+                    "quantite": 0.125
+                },
+                {
+                    "created_at": "2021-02-05T13:59:41.329",
+                    "local_key": "36-634222781.329046",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T13:59:41.634",
+                    "produit_id": 4,
+                    "local_key": "36-634222781.634154",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T13:59:41.985",
+                    "produit_id": 12,
+                    "local_key": "36-634222781.984752",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:59:42.324",
+                    "produit_id": 510,
+                    "local_key": "36-634222782.324232",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:59:42.519",
+                    "produit_id": 543,
+                    "local_key": "36-634222782.518912",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T13:59:42.845",
+                    "local_key": "36-634222782.845232",
+                    "produit_id": 175,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634222780.064814",
+            "created_at": "2021-02-05T13:59:40.065",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449453
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:00:22.466",
+                    "local_key": "36-634222822.465736",
+                    "produit_id": 97,
+                    "id": 0,
+                    "quantite": 0.06
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:00:21.896",
+            "local_key": "36-634222821.895951",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449489
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:02:48.837",
+                    "local_key": "36-634222968.836632",
+                    "produit_id": 583,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:02:49.037",
+                    "local_key": "36-634222969.037491",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:02:49.387",
+                    "local_key": "36-634222969.386567",
+                    "produit_id": 143,
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:02:49.672",
+                    "produit_id": 152,
+                    "local_key": "36-634222969.671637",
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T14:02:49.972",
+                    "local_key": "36-634222969.972326",
+                    "produit_id": 4,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:02:50.305",
+                    "produit_id": 12,
+                    "local_key": "36-634222970.304807",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:02:50.634",
+                    "local_key": "36-634222970.633569",
+                    "produit_id": 184,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "cmd_client_id": 1449490,
+            "local_key": "36-634222968.129229",
+            "created_at": "2021-02-05T14:02:48.129",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:04:09.918",
+                    "local_key": "36-634223049.918223",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T14:04:10.252",
+                    "local_key": "36-634223050.252009",
+                    "produit_id": 148,
+                    "quantite": 0.195,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:04:10.520",
+                    "produit_id": 147,
+                    "local_key": "36-634223050.51991",
+                    "id": 0,
+                    "quantite": 0.195
+                },
+                {
+                    "created_at": "2021-02-05T14:04:10.796",
+                    "produit_id": 152,
+                    "local_key": "36-634223050.7956",
+                    "quantite": 0.03600000000000002,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:04:11.092",
+                    "local_key": "36-634223051.091543",
+                    "produit_id": 12,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:04:11.419",
+                    "local_key": "36-634223051.418854",
+                    "produit_id": 543,
+                    "quantite": 3,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:04:13.217",
+                    "local_key": "36-634223053.217158",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:04:13.492",
+                    "produit_id": 178,
+                    "local_key": "36-634223053.491819",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "cmd_client_id": 1449491,
+            "created_at": "2021-02-05T14:04:09.134",
+            "local_key": "36-634223049.133796",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:05:09.605",
+                    "produit_id": 12,
+                    "local_key": "36-634223109.60493",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:05:10.083",
+                    "produit_id": 4,
+                    "local_key": "36-634223110.083037",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:05:10.457",
+                    "produit_id": 143,
+                    "local_key": "36-634223110.457255",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:05:10.757",
+                    "local_key": "36-634223110.757106",
+                    "produit_id": 148,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:05:11.036",
+                    "local_key": "36-634223111.035967",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T14:05:11.353",
+                    "produit_id": 543,
+                    "local_key": "36-634223111.353287",
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T14:05:12.207",
+                    "local_key": "36-634223112.207208",
+                    "produit_id": 147,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:05:13.205",
+                    "local_key": "36-634223113.204811",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:05:13.475",
+                    "produit_id": 175,
+                    "local_key": "36-634223113.475182",
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634223109.04249",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449492,
+            "created_at": "2021-02-05T14:05:09.042"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:07:18.370",
+                    "local_key": "36-634223238.369622",
+                    "produit_id": 600,
+                    "id": 0,
+                    "quantite": 2
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:07:17.667",
+            "local_key": "36-634223237.666745",
+            "cmd_client_id": 1449531
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:08:01.013",
+                    "produit_id": 684,
+                    "local_key": "36-634223281.013279",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "cmd_client_id": 1449532,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:08:00.299",
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634223280.299049"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:09:12.187",
+                    "local_key": "36-634223352.187065",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T14:09:12.475",
+                    "local_key": "36-634223352.475462",
+                    "produit_id": 99,
+                    "quantite": 0.12,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:09:12.682",
+                    "produit_id": 152,
+                    "local_key": "36-634223352.682251",
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T14:09:12.984",
+                    "local_key": "36-634223352.983922",
+                    "produit_id": 543,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:09:13.313",
+                    "local_key": "36-634223353.312943",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:09:13.648",
+                    "local_key": "36-634223353.648335",
+                    "produit_id": 12,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:09:13.974",
+                    "local_key": "36-634223353.97436",
+                    "produit_id": 177,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T14:09:11.424",
+            "cmd_client_id": 1449533,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634223351.424254"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:13:22.283",
+                    "produit_id": 152,
+                    "local_key": "36-634223602.283078",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:13:22.598",
+                    "local_key": "36-634223602.598198",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:13:22.872",
+                    "local_key": "36-634223602.871795",
+                    "produit_id": 143,
+                    "quantite": 0.065,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:13:23.176",
+                    "produit_id": 4,
+                    "local_key": "36-634223603.176469",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:13:23.523",
+                    "produit_id": 12,
+                    "local_key": "36-634223603.523479",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:13:23.870",
+                    "produit_id": 543,
+                    "local_key": "36-634223603.869796",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "created_at": "2021-02-05T14:13:21.463",
+            "local_key": "36-634223601.46333",
+            "cmd_client_id": 1449534,
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:24:08.395",
+                    "local_key": "36-634224248.395383",
+                    "produit_id": 4,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:24:08.732",
+                    "local_key": "36-634224248.732405",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:24:09.060",
+                    "produit_id": 147,
+                    "local_key": "36-634224249.060365",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:24:09.343",
+                    "produit_id": 143,
+                    "local_key": "36-634224249.342639",
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T14:24:09.628",
+                    "produit_id": 152,
+                    "local_key": "36-634224249.627952",
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T14:24:09.923",
+                    "produit_id": 543,
+                    "local_key": "36-634224249.922692",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:24:10.252",
+                    "produit_id": 205,
+                    "local_key": "36-634224250.251632",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "cmd_client_id": 1449614,
+            "created_at": "2021-02-05T14:24:07.627",
+            "local_key": "36-634224247.626914",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:25:38.401",
+                    "local_key": "36-634224338.400907",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:25:39.052",
+                    "local_key": "36-634224339.051549",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:25:39.389",
+                    "produit_id": 152,
+                    "local_key": "36-634224339.389002",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:25:39.683",
+                    "local_key": "36-634224339.683256",
+                    "produit_id": 147,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:25:39.953",
+                    "local_key": "36-634224339.953025",
+                    "produit_id": 143,
+                    "quantite": 0.05,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:25:40.239",
+                    "local_key": "36-634224340.239113",
+                    "produit_id": 543,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:25:40.567",
+                    "produit_id": 175,
+                    "local_key": "36-634224340.566846",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "created_at": "2021-02-05T14:25:37.688",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634224337.688483",
+            "cmd_client_id": 1449615
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:26:57.573",
+                    "produit_id": 598,
+                    "local_key": "36-634224417.573233",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:26:57.777",
+                    "produit_id": 152,
+                    "local_key": "36-634224417.777274",
+                    "quantite": 0.012,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T14:26:56.694",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449616,
+            "local_key": "36-634224416.693646"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:33:42.657",
+                    "local_key": "36-634224822.657252",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T14:33:42.956",
+                    "local_key": "36-634224822.955587",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.065
+                },
+                {
+                    "created_at": "2021-02-05T14:33:43.243",
+                    "local_key": "36-634224823.243245",
+                    "produit_id": 105,
+                    "id": 0,
+                    "quantite": 0.125
+                },
+                {
+                    "created_at": "2021-02-05T14:33:43.441",
+                    "produit_id": 4,
+                    "local_key": "36-634224823.441094",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:33:43.775",
+                    "produit_id": 12,
+                    "local_key": "36-634224823.774637",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:33:44.106",
+                    "local_key": "36-634224824.105625",
+                    "produit_id": 543,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:33:44.431",
+                    "produit_id": 205,
+                    "local_key": "36-634224824.431474",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:33:44.705",
+                    "produit_id": 178,
+                    "local_key": "36-634224824.704751",
+                    "quantite": 0.02,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:33:44.962",
+                    "produit_id": 175,
+                    "local_key": "36-634224824.96177",
+                    "id": 0,
+                    "quantite": 0.02
+                }
+            ],
+            "created_at": "2021-02-05T14:33:41.968",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449674,
+            "local_key": "36-634224821.96769",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:35:18.963",
+                    "local_key": "36-634224918.963495",
+                    "produit_id": 148,
+                    "quantite": 0.24,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:35:19.231",
+                    "local_key": "36-634224919.230959",
+                    "produit_id": 152,
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T14:35:19.529",
+                    "local_key": "36-634224919.528796",
+                    "produit_id": 151,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:35:19.735",
+                    "local_key": "36-634224919.735204",
+                    "produit_id": 493,
+                    "quantite": 0.01,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:35:19.946",
+                    "local_key": "36-634224919.946367",
+                    "produit_id": 494,
+                    "quantite": 0.01,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:35:20.151",
+                    "produit_id": 154,
+                    "local_key": "36-634224920.150825",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:35:20.349",
+                    "local_key": "36-634224920.349149",
+                    "produit_id": 178,
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634224918.276077",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T14:35:18.276",
+            "cmd_client_id": 1449675
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:36:20.643",
+                    "produit_id": 648,
+                    "local_key": "36-634224980.64304",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:36:20.886",
+                    "produit_id": 205,
+                    "local_key": "36-634224980.885965",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:36:21.163",
+                    "local_key": "36-634224981.1628",
+                    "produit_id": 102,
+                    "id": 0,
+                    "quantite": 0.05
+                },
+                {
+                    "created_at": "2021-02-05T14:36:21.358",
+                    "produit_id": 100,
+                    "local_key": "36-634224981.358159",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634224979.995465",
+            "cmd_client_id": 1449676,
+            "created_at": "2021-02-05T14:36:19.995",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:36:49.496",
+                    "local_key": "36-634225009.496462",
+                    "produit_id": 657,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:36:49.702",
+                    "produit_id": 648,
+                    "local_key": "36-634225009.702477",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:36:49.906",
+                    "local_key": "36-634225009.906196",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:36:50.192",
+                    "produit_id": 169,
+                    "local_key": "36-634225010.192203",
+                    "id": 0,
+                    "quantite": 0.06
+                },
+                {
+                    "created_at": "2021-02-05T14:36:50.403",
+                    "local_key": "36-634225010.402911",
+                    "produit_id": 102,
+                    "id": 0,
+                    "quantite": 0.05
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634225008.668808",
+            "created_at": "2021-02-05T14:36:48.669",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449677
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:37:57.650",
+                    "produit_id": 598,
+                    "local_key": "36-634225077.650159",
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:37:56.873",
+            "local_key": "36-634225076.873494",
+            "cmd_client_id": 1449678,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:38:47.862",
+                    "produit_id": 609,
+                    "local_key": "36-634225127.861937",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:38:48.057",
+                    "produit_id": 97,
+                    "local_key": "36-634225128.057247",
+                    "id": 0,
+                    "quantite": 0.06
+                },
+                {
+                    "created_at": "2021-02-05T14:38:48.273",
+                    "local_key": "36-634225128.272815",
+                    "produit_id": 361,
+                    "id": 0,
+                    "quantite": 1
+                }
+            ],
+            "cmd_client_id": 1449698,
+            "local_key": "36-634225127.235793",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:38:47.236"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:39:15.027",
+                    "produit_id": 609,
+                    "local_key": "36-634225155.027001",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:39:15.222",
+                    "local_key": "36-634225155.221996",
+                    "produit_id": 300,
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T14:39:14.319",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449699,
+            "local_key": "36-634225154.319274"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:39:52.204",
+                    "local_key": "36-634225192.204483",
+                    "produit_id": 598,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:39:52.403",
+                    "produit_id": 100,
+                    "local_key": "36-634225192.403227",
+                    "quantite": 0.04,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:39:52.601",
+                    "produit_id": 174,
+                    "local_key": "36-634225192.601475",
+                    "id": 0,
+                    "quantite": 0.04
+                }
+            ],
+            "created_at": "2021-02-05T14:39:51.433",
+            "local_key": "36-634225191.433488",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449700
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:40:32.238",
+                    "produit_id": 648,
+                    "local_key": "36-634225232.237661",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T14:40:32.443",
+                    "local_key": "36-634225232.442755",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:40:32.718",
+                    "produit_id": 152,
+                    "local_key": "36-634225232.718059",
+                    "id": 0,
+                    "quantite": 0.012
+                }
+            ],
+            "created_at": "2021-02-05T14:40:31.506",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449701,
+            "local_key": "36-634225231.505841",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:41:21.963",
+                    "local_key": "36-634225281.962669",
+                    "produit_id": 598,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:41:22.173",
+                    "produit_id": 153,
+                    "local_key": "36-634225282.172895",
+                    "id": 0,
+                    "quantite": 0.025
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634225281.187994",
+            "cmd_client_id": 1449702,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:41:21.188"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:53:10.619",
+                    "local_key": "36-634225990.618641",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T14:53:11.034",
+                    "produit_id": 12,
+                    "local_key": "36-634225991.03411",
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T14:53:11.367",
+                    "local_key": "36-634225991.366953",
+                    "produit_id": 154,
+                    "quantite": 0.26,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:11.567",
+                    "local_key": "36-634225991.567513",
+                    "produit_id": 103,
+                    "quantite": 0.06,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:11.770",
+                    "local_key": "36-634225991.770141",
+                    "produit_id": 153,
+                    "quantite": 0.1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:11.973",
+                    "produit_id": 543,
+                    "local_key": "36-634225991.972674",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:12.300",
+                    "local_key": "36-634225992.300285",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.25
+                },
+                {
+                    "created_at": "2021-02-05T14:53:12.565",
+                    "produit_id": 152,
+                    "local_key": "36-634225992.564786",
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T14:53:14.864",
+                    "produit_id": 205,
+                    "local_key": "36-634225994.863546",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:15.387",
+                    "produit_id": 175,
+                    "local_key": "36-634225995.386672",
+                    "quantite": 0.06,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:53:15.909",
+                    "produit_id": 178,
+                    "local_key": "36-634225995.908875",
+                    "id": 0,
+                    "quantite": 0.02
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "local_key": "36-634225990.058543",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449769,
+            "created_at": "2021-02-05T14:53:10.059"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:55:52.858",
+                    "produit_id": 566,
+                    "local_key": "36-634226152.857637",
+                    "quantite": 1,
+                    "id": 0
+                }
+            ],
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "created_at": "2021-02-05T14:55:52.154",
+            "local_key": "36-634226152.153685",
+            "cmd_client_id": 1449770,
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T14:57:56.073",
+                    "local_key": "36-634226276.073154",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T14:57:56.458",
+                    "local_key": "36-634226276.458274",
+                    "produit_id": 12,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:57:56.812",
+                    "produit_id": 152,
+                    "local_key": "36-634226276.812211",
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T14:57:57.128",
+                    "produit_id": 147,
+                    "local_key": "36-634226277.127528",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:57:57.410",
+                    "local_key": "36-634226277.409682",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.115
+                },
+                {
+                    "created_at": "2021-02-05T14:57:57.711",
+                    "local_key": "36-634226277.711242",
+                    "produit_id": 543,
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:57:58.311",
+                    "local_key": "36-634226278.3115",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T14:57:59.579",
+                    "produit_id": 178,
+                    "local_key": "36-634226279.578631",
+                    "quantite": 0.04,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T14:57:59.855",
+                    "local_key": "36-634226279.855022",
+                    "produit_id": 175,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1449771,
+            "local_key": "36-634226275.147505",
+            "created_at": "2021-02-05T14:57:55.147",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:05:25.836",
+                    "produit_id": 152,
+                    "local_key": "36-634226725.835629",
+                    "id": 0,
+                    "quantite": 0.024
+                },
+                {
+                    "created_at": "2021-02-05T15:05:26.210",
+                    "produit_id": 148,
+                    "local_key": "36-634226726.210239",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T15:05:26.549",
+                    "local_key": "36-634226726.549306",
+                    "produit_id": 143,
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T15:05:26.881",
+                    "local_key": "36-634226726.88148",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 2
+                },
+                {
+                    "created_at": "2021-02-05T15:05:27.310",
+                    "produit_id": 12,
+                    "local_key": "36-634226727.310264",
+                    "quantite": 3,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:05:27.742",
+                    "produit_id": 543,
+                    "local_key": "36-634226727.742469",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:05:28.202",
+                    "produit_id": 99,
+                    "local_key": "36-634226728.202077",
+                    "id": 0,
+                    "quantite": 0.12
+                },
+                {
+                    "created_at": "2021-02-05T15:05:29.722",
+                    "produit_id": 178,
+                    "local_key": "36-634226729.721969",
+                    "id": 0,
+                    "quantite": 0.08
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "local_key": "36-634226723.313466",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449827,
+            "created_at": "2021-02-05T15:05:23.313"
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:12:01.124",
+                    "local_key": "36-634227121.123681",
+                    "produit_id": 4,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T15:12:01.460",
+                    "local_key": "36-634227121.459649",
+                    "produit_id": 12,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:12:01.791",
+                    "produit_id": 152,
+                    "local_key": "36-634227121.790908",
+                    "id": 0,
+                    "quantite": 0.012
+                },
+                {
+                    "created_at": "2021-02-05T15:12:02.085",
+                    "local_key": "36-634227122.08461",
+                    "produit_id": 147,
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:12:02.350",
+                    "produit_id": 143,
+                    "local_key": "36-634227122.350013",
+                    "quantite": 0.05,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:12:02.629",
+                    "produit_id": 543,
+                    "local_key": "36-634227122.62948",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:12:02.955",
+                    "produit_id": 177,
+                    "local_key": "36-634227122.955411",
+                    "id": 0,
+                    "quantite": 0.02
+                },
+                {
+                    "created_at": "2021-02-05T15:12:03.158",
+                    "produit_id": 175,
+                    "local_key": "36-634227123.15787",
+                    "id": 0,
+                    "quantite": 0.02
+                }
+            ],
+            "created_at": "2021-02-05T15:11:59.853",
+            "calendar_day_entity_id": 20268,
+            "cmd_client_id": 1449853,
+            "local_key": "36-634227119.853404",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:13:54.725",
+                    "local_key": "36-634227234.725166",
+                    "produit_id": 4,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:13:55.107",
+                    "produit_id": 12,
+                    "local_key": "36-634227235.106635",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:13:55.436",
+                    "local_key": "36-634227235.436132",
+                    "produit_id": 152,
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:13:55.740",
+                    "produit_id": 147,
+                    "local_key": "36-634227235.739669",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:13:56.007",
+                    "produit_id": 143,
+                    "local_key": "36-634227236.007045",
+                    "id": 0,
+                    "quantite": 0.05
+                },
+                {
+                    "created_at": "2021-02-05T15:13:56.292",
+                    "produit_id": 543,
+                    "local_key": "36-634227236.29235",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T15:13:56.619",
+                    "produit_id": 175,
+                    "local_key": "36-634227236.618786",
+                    "quantite": 0.02,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:13:56.892",
+                    "local_key": "36-634227236.892219",
+                    "produit_id": 177,
+                    "quantite": 0.02,
+                    "id": 0
+                }
+            ],
+            "created_at": "2021-02-05T15:13:53.949",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- ",
+            "cmd_client_id": 1449854,
+            "local_key": "36-634227233.949014",
+            "calendar_day_entity_id": 20268
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:16:15.348",
+                    "produit_id": 12,
+                    "local_key": "36-634227375.348077",
+                    "id": 0,
+                    "quantite": 3
+                },
+                {
+                    "created_at": "2021-02-05T15:16:15.680",
+                    "produit_id": 4,
+                    "local_key": "36-634227375.679912",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:16.010",
+                    "produit_id": 143,
+                    "local_key": "36-634227376.009716",
+                    "quantite": 0.13,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:16.298",
+                    "local_key": "36-634227376.29793",
+                    "produit_id": 148,
+                    "id": 0,
+                    "quantite": 0.26
+                },
+                {
+                    "created_at": "2021-02-05T15:16:16.558",
+                    "local_key": "36-634227376.5584",
+                    "produit_id": 152,
+                    "quantite": 0.03600000000000002,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:16.852",
+                    "produit_id": 543,
+                    "local_key": "36-634227376.851907",
+                    "quantite": 2,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:17.178",
+                    "local_key": "36-634227377.178401",
+                    "produit_id": 97,
+                    "quantite": 0.08,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:17.394",
+                    "local_key": "36-634227377.394119",
+                    "produit_id": 5,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:16:19.302",
+                    "produit_id": 205,
+                    "local_key": "36-634227379.302514",
+                    "id": 0,
+                    "quantite": 3
+                }
+            ],
+            "cmd_client_id": 1449855,
+            "local_key": "36-634227374.490015",
+            "created_at": "2021-02-05T15:16:14.490",
+            "calendar_day_entity_id": 20268,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:18:03.554",
+                    "local_key": "36-634227483.554332",
+                    "produit_id": 599,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:18:03.903",
+                    "local_key": "36-634227483.903383",
+                    "produit_id": 205,
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:18:04.209",
+                    "local_key": "36-634227484.208727",
+                    "produit_id": 169,
+                    "quantite": 0.06,
+                    "id": 0
+                }
+            ],
+            "cmd_client_id": 1449856,
+            "local_key": "36-634227482.949844",
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T15:18:02.950",
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        },
+        {
+            "id": 0,
+            "stock_operation_type_id": 2,
+            "stock_operation_prd": [
+                {
+                    "created_at": "2021-02-05T15:19:10.330",
+                    "produit_id": 4,
+                    "local_key": "36-634227550.329603",
+                    "quantite": 1,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:19:10.662",
+                    "local_key": "36-634227550.661985",
+                    "produit_id": 12,
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T15:19:10.998",
+                    "produit_id": 152,
+                    "local_key": "36-634227550.998152",
+                    "quantite": 0.012,
+                    "id": 0
+                },
+                {
+                    "created_at": "2021-02-05T15:19:11.297",
+                    "produit_id": 147,
+                    "local_key": "36-634227551.296766",
+                    "id": 0,
+                    "quantite": 0.13
+                },
+                {
+                    "created_at": "2021-02-05T15:19:11.568",
+                    "produit_id": 143,
+                    "local_key": "36-634227551.567707",
+                    "id": 0,
+                    "quantite": 0.18
+                },
+                {
+                    "created_at": "2021-02-05T15:19:11.853",
+                    "produit_id": 543,
+                    "local_key": "36-634227551.8532",
+                    "id": 0,
+                    "quantite": 1
+                },
+                {
+                    "created_at": "2021-02-05T15:19:12.182",
+                    "local_key": "36-634227552.181599",
+                    "produit_id": 178,
+                    "quantite": 0.04,
+                    "id": 0
+                }
+            ],
+            "calendar_day_entity_id": 20268,
+            "created_at": "2021-02-05T15:19:09.385",
+            "local_key": "36-634227549.385247",
+            "cmd_client_id": 1449909,
+            "commentaire": " -- GENERATED AUTOMATICALLY FROM CmdClient -- "
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+#!/usr/bin/expect -f
+
+#read arrguments
+set folder [lindex $argv 0];
+set username [lindex $argv 1];
+set password [lindex $argv 2];
+set branch [lindex $argv 3];
+
+git clone --depth 1 -b $branch https://lab.utopie.ma/precision-systems/$folder --no-edit
+cd "$folder"
+
+expect {
+
+  "Username for 'https://lab.utopie.ma':" {
+    send "$username\r"
+    send_user "\nYES\n"
+    exp_continue
+  }
+
+  "Password for 'https://quantumass@lab.utopie.ma':" {
+    send "$password\r"
+    send_user "\nYES\n"
+    exp_continue
+  }
+
+}
+

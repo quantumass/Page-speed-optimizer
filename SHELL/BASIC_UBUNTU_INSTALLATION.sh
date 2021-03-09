@@ -1,6 +1,3 @@
-##CREATED BY QUANTUMASS
-#THE POWER OF THE HUMAN
-
 #!/bin/bash
 
 set -euo pipefail

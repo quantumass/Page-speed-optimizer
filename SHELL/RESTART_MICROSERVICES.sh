@@ -1,0 +1,39 @@
+#!/bin/bash
+
+kubectl scale deployment authms --replicas=0;
+kubectl scale deployment caissems --replicas=0;
+kubectl scale deployment cataloguems --replicas=0;
+kubectl scale deployment cataloguev2ms --replicas=0;
+kubectl scale deployment centralachatms --replicas=0;
+kubectl scale deployment commandems --replicas=0;
+kubectl scale deployment entreprisems --replicas=0;
+kubectl scale deployment executerms --replicas=0;
+kubectl scale deployment filems --replicas=0;
+kubectl scale deployment gatewayms --replicas=0;
+kubectl scale deployment labms --replicas=0;
+kubectl scale deployment notificationms --replicas=0;
+kubectl scale deployment precisionadmin --replicas=0;
+kubectl scale deployment precisionfront --replicas=0;
+kubectl scale deployment precisionfrontv2 --replicas=0;
+kubectl scale deployment queuems --replicas=0;
+kubectl scale deployment registerms --replicas=0;
+kubectl scale deployment stockms --replicas=0;
+sleep 10
+kubectl scale deployment authms --replicas=1;
+kubectl scale deployment caissems --replicas=1;
+kubectl scale deployment cataloguems --replicas=1;
+kubectl scale deployment cataloguev2ms --replicas=1;
+kubectl scale deployment centralachatms --replicas=1;
+kubectl scale deployment commandems --replicas=1;
+kubectl scale deployment entreprisems --replicas=1;
+kubectl scale deployment executerms --replicas=1;
+kubectl scale deployment filems --replicas=1;
+kubectl scale deployment gatewayms --replicas=1;
+kubectl scale deployment labms --replicas=1;
+kubectl scale deployment notificationms --replicas=1;
+kubectl scale deployment precisionadmin --replicas=1;
+kubectl scale deployment precisionfront --replicas=1;
+kubectl scale deployment precisionfrontv2 --replicas=1;
+kubectl scale deployment queuems --replicas=1;
+kubectl scale deployment registerms --replicas=1;
+kubectl scale deployment stockms --replicas=1;
